@@ -1,16 +1,7 @@
 """ Remove Duplicates
 
-Instructions: Given a sentence, write a program that removes repeated words while keeping the original order of the words.
-The program should return a new sentence containing only the first occurrence of each word.
-
-Example:
-
-Input:
-"python is easy and python is powerful"
-
-Output:
-"python is easy and powerful
-
+Input:  [1, 2, 4, 5, 6]
+Output: 3
 
 """
 
